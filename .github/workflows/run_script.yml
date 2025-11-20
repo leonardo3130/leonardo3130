@@ -1,0 +1,36 @@
+name: Update Daily Fact
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 8 * * 1" # every monday at 8 AM
+  workflow_dispatch:
+
+jobs:
+  update-fact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python .github/scripts/random_fact_script.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update daily cool fact" || echo "No changes to commit"
+          git push
