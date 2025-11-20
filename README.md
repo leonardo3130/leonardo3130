@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!--COOL_FACT-->
+> M million blood cells are destroyed in the human body every second.<!--COOL_FACT-->
 
 ---
 
