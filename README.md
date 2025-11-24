@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  <!--COOL_FACT-->
+> <!--COOL_FACT-->The average person`s left hand does 56% of the typing.<!--COOL_FACT-->
 
 ---
 
