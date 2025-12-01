@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->The average person`s left hand does 56% of the typing.<!--COOL_FACT-->
+> <!--COOL_FACT-->Butte County, South Dakota is the geographical center of the U.S.<!--COOL_FACT-->
 
 ---
 
