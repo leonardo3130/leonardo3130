@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->The Simpsons is the longest running animated series on TV.<!--COOL_FACT-->
+> <!--COOL_FACT-->Annual growth of WWW traffic is 314,000%<!--COOL_FACT-->
 
 ---
 
