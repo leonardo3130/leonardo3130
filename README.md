@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.<!--COOL_FACT-->
+> <!--COOL_FACT-->The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.<!--COOL_FACT-->
 
 ---
 
