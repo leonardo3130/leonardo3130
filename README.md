@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->    Dueling is legal in Paraguay as long as both parties are registered blood donors.<!--COOL_FACT-->
+> <!--COOL_FACT-->A cat has 32 muscles in each ear.<!--COOL_FACT-->
 
 ---
 
