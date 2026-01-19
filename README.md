@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->A cat has 32 muscles in each ear.<!--COOL_FACT-->
+> <!--COOL_FACT-->In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.<!--COOL_FACT-->
 
 ---
 
