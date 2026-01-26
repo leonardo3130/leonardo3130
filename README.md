@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.<!--COOL_FACT-->
+> <!--COOL_FACT-->The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.<!--COOL_FACT-->
 
 ---
 
