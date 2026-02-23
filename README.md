@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Isaac Asimov is the only author to have a book in every Dewey-decimal category.<!--COOL_FACT-->
+> <!--COOL_FACT-->Eskimos have over 15 words for the English word of 'Snow'<!--COOL_FACT-->
 
 ---
 
