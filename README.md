@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Eskimos have over 15 words for the English word of 'Snow'<!--COOL_FACT-->
+> <!--COOL_FACT-->There are 1,792 steps in the Eiffel Tower<!--COOL_FACT-->
 
 ---
 
