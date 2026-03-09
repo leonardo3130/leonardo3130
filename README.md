@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->There are 1,792 steps in the Eiffel Tower<!--COOL_FACT-->
+> <!--COOL_FACT-->Because of the rotation of the earth, an object can be thrown farther if it is thrown west.<!--COOL_FACT-->
 
 ---
 
