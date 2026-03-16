@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Because of the rotation of the earth, an object can be thrown farther if it is thrown west.<!--COOL_FACT-->
+> <!--COOL_FACT-->King Louis XIX ruled France for 15 minutes.<!--COOL_FACT-->
 
 ---
 
