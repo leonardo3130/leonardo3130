@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.<!--COOL_FACT-->
+> <!--COOL_FACT-->The Human eyes never grow, but nose and ears never stop growing.<!--COOL_FACT-->
 
 ---
 
