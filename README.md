@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->The Human eyes never grow, but nose and ears never stop growing.<!--COOL_FACT-->
+> <!--COOL_FACT-->Pepsi originally contained pepsin, thus the name. <!--COOL_FACT-->
 
 ---
 
