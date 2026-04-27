@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->The word Pennsylvania is misspelled on the Liberty Bell.<!--COOL_FACT-->
+> <!--COOL_FACT-->There is an average of 61,000 people airborne over the US at any given moment.<!--COOL_FACT-->
 
 ---
 
