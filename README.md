@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->There is an average of 61,000 people airborne over the US at any given moment.<!--COOL_FACT-->
+> <!--COOL_FACT-->“Ithyphallophobia" is a morbid fear of seeing, thinking about or having an erect penis.<!--COOL_FACT-->
 
 ---
 
