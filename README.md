@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->The pupils of a goat`s eyes are square.<!--COOL_FACT-->
+> <!--COOL_FACT-->There are more plastic flamingos in the U.S that there are real ones.<!--COOL_FACT-->
 
 ---
 
