@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->There are more plastic flamingos in the U.S that there are real ones.<!--COOL_FACT-->
+> <!--COOL_FACT-->Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca<!--COOL_FACT-->
 
 ---
 
