@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca<!--COOL_FACT-->
+> <!--COOL_FACT-->There were 240 pedestrian fatalities in New York City in 1994.<!--COOL_FACT-->
 
 ---
 
