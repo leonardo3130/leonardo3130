@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->There were 240 pedestrian fatalities in New York City in 1994.<!--COOL_FACT-->
+> <!--COOL_FACT-->Blueberry Jelly Bellies were created especially for Ronald Reagan.<!--COOL_FACT-->
 
 ---
 
