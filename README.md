@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Blueberry Jelly Bellies were created especially for Ronald Reagan.<!--COOL_FACT-->
+> <!--COOL_FACT-->The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.<!--COOL_FACT-->
 
 ---
 
