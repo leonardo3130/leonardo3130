@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: "It does not matter, my audience sees only my right side."<!--COOL_FACT-->
+> <!--COOL_FACT-->Only one person in two billion will live to be 116 or older.<!--COOL_FACT-->
 
 ---
 
