@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Only one person in two billion will live to be 116 or older.<!--COOL_FACT-->
+> <!--COOL_FACT-->A snail can sleep for 3 years.<!--COOL_FACT-->
 
 ---
 
