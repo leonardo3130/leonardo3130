@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->The first license plate on a car in the United States was issued in Denver, Colorado in 1908.<!--COOL_FACT-->
+> <!--COOL_FACT-->Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.<!--COOL_FACT-->
 
 ---
 
