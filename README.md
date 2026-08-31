@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.<!--COOL_FACT-->
+> <!--COOL_FACT-->Fish that live more than 800 meters below the ocean surface don't have eyes.<!--COOL_FACT-->
 
 ---
 
