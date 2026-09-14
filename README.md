@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Rubber bands last longer when refrigerated.<!--COOL_FACT-->
+> <!--COOL_FACT-->Iceland consumes more Coca-Cola per capita than any other nation.<!--COOL_FACT-->
 
 ---
 
