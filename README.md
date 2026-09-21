@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->Iceland consumes more Coca-Cola per capita than any other nation.<!--COOL_FACT-->
+> <!--COOL_FACT-->A 2" X 4" is really 1-1/2" by 3-1/2".<!--COOL_FACT-->
 
 ---
 
