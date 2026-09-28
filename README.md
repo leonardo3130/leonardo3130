@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->A 2" X 4" is really 1-1/2" by 3-1/2".<!--COOL_FACT-->
+> <!--COOL_FACT-->One in ten people live on an island.<!--COOL_FACT-->
 
 ---
 
