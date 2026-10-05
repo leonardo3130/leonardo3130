@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project!
 
 ## 🤓☝️ Weekly Useless Fact
 
-> <!--COOL_FACT-->One in ten people live on an island.<!--COOL_FACT-->
+> <!--COOL_FACT-->A standard slinky measures 87 feet when stretched out.<!--COOL_FACT-->
 
 ---
 
