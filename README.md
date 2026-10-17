@@ -8,9 +8,9 @@ BSc in Computer Science from the University of Bologna. I'm interested in softwa
 In my free time I play football and develop some personal projects that you can check [here](https://github.com/leonardo3130).
 
 - **Software Engineer**, Prometeia (Sep 2026 – present)
-- **Full-Stack Software Developer**, Applika (Dec 2025 – Aug 2026): IoT monitoring software with Modbus integration, the company CRM (from requirements gathering and client interaction through to deployment), management software for operational and administrative processes, and energy consumption monitoring and analysis.
+- **Full-Stack Software Developer**, Applika (Dec 2025 – Aug 2026)
 
-Portfolio and projects: [leonardo3130.github.io](https://leonardo3130.github.io/)
+Portfolio, CV and projects: [leonardo3130.github.io](https://leonardo3130.github.io/)
 
 ## Tech Stack
 
